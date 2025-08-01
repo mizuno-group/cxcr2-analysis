@@ -1,9 +1,6 @@
 # Local niche-derived immunosuppressive CXCR2+ cells impair antiviral immunity
-Source Code for Our Publication
-
-# Note
-This repository is under construction and will be officially released by [Mizuno group](https://github.com/mizuno-group).  
-Please contact tadahaya[at]gmail.com before publishing your paper using the contents of this repository.  
+Source Code for Our Publication:
+- details coming soon.  
 
 ## Publication
 - preprint  
